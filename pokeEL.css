@@ -1,0 +1,45 @@
+h1{ text-align: center;
+    color: red;
+}
+
+
+
+.paraC{
+    font-size: 20pt;
+    text-align: right;
+    margin-right: 150px;
+    float: right;
+}
+
+.paraL{
+    font-size: 20pt;
+    text-align: left;
+    margin-left: 820px;
+    margin-right: 300px;
+    float: right;
+    margin-top: -475px;
+
+}
+
+
+.back{
+    margin-left: 0px;
+
+}
+
+img{
+    border-width: 7px;
+    border-style: solid;   
+    border-color: red;
+    border-radius: 20px;
+    margin-left: 300px;
+} 
+
+.tab1{
+    font-size: 20pt;
+    text-align: center;
+    margin-right: 575px;
+    margin-top: -350px;
+    float: right;
+    border-spacing: 15px;
+}
